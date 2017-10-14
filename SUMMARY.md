@@ -2,6 +2,7 @@
 
 * [上手](README.md)
   * [R 的初體驗](r-的初體驗.md)
+  * [指令列的初體驗](zhi-ling-lie-de-chu-ti-yan.md)
   * Python 的初體驗
 
 ## 第一部分

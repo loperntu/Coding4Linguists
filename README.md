@@ -1,4 +1,4 @@
-# R for Linguists
+# Coding for Linguists
 
 ---
 
@@ -25,7 +25,7 @@
 
 * RStudio is an open source Integrated Development Environment \(IDE\) for the R platform.
 
-* `RStudio Desktop 0.99.903` 還是 [`Preview v 1.0.27`](https:\\www.rstudio.com\products\rstudio\download\preview\) \(推薦\)
+* `RStudio Desktop 0.99.903` 還是 [`Preview v 1.0.27`](https:\\www.rstudio.com\products\rstudio\download\preview%29 %28推薦\)
 
 ---
 
@@ -39,7 +39,7 @@
 
 ## 用 RStudio 還可以做很多事 \(to be continued...\)
 
-* 做 [可重製 reproducible](http:\\rmarkdown.rstudio.com\lesson-1.html\)、[可調參數 Parameterized](http:\\rmarkdown.rstudio.com\developer_parameterized_reports.html\)、[互動型 interactive](http:\\rmarkdown.rstudio.com\lesson-14.html\) 筆記\(notebook\) 與報告 \(report\)
+* 做 [可重製 reproducible](http:\\rmarkdown.rstudio.com\lesson-1.html\)、[可調參數 Parameterized](http:\\rmarkdown.rstudio.com\developer_parameterized_reports.html\)、[互動型 interactive](http:\\rmarkdown.rstudio.com\lesson-14.html%29 筆記%28notebook%29 與報告 %28report\)
 
 * 做投影片 \(presentation\)
 
